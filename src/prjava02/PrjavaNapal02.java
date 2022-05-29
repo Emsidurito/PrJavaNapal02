@@ -18,6 +18,9 @@ public class PrjavaNapal02 {
      */
     public static void main(String[] args) {
         System.out.println("versió 0.1 del projecte prjavaNapal02"); 	
+        System.out.println("Afegint codi a la branca01 del projecte prjavaNapal02");
+
+
         try {
             System.out.println("Creació d'una branca del projecte prjavaNapal02");
             System.out.println("Afegint més codi a la branca00 del projecte prjavaNapal02");
